@@ -70,6 +70,7 @@
   
   <!-- hardware -->
   <remove-project name="platform/hardware/libhardware" />
+  <remove-project name="platform/hardware/libhardware_legacy" />
   <remove-project name="platform/hardware/qcom/camera" />
   <remove-project name="platform/hardware/qcom/gps" />
   <remove-project name="platform/hardware/qcom/wlan" />
@@ -95,6 +96,7 @@
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/incremental_delivery" />
+  <remove-project name="platform/system/libufdt" />
   <remove-project name="platform/system/sepolicy" />
 
   <!-- Tools -->
