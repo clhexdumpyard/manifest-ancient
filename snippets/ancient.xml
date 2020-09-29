@@ -97,6 +97,7 @@
   <project path="hardware/ril" name="hardware_ril" remote="ancient" />
 
   <!-- packages -->
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ancient" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="ancient" />
 
