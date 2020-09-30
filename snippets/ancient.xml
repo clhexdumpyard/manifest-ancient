@@ -129,6 +129,7 @@
   <!-- Qualcomm vendor repos -->
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="ancient" />
   <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="vendor_qcom_opensource_bluetooth_ext" remote="ancient" />
+  <project path="vendor/qcom/opensource/commonsys/packages/apps/Bluetooth" name="vendor_qcom_opensource_packages_apps_Bluetooth" remote="ancient" />
   <project path="vendor/qcom/opensource/commonsys/system/bt" name="vendor_qcom_opensource_system_bt" remote="ancient" />
   <project path="vendor/qcom/opensource/commonsys-intf/bluetooth" name="vendor_qcom_opensource_bluetooth-commonsys-intf" remote="ancient" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="ancient" />
