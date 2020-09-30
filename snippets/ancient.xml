@@ -76,7 +76,7 @@
   
   <!-- device -->
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="ancient" />
-  <!--<project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="ancient" revision="eleven-legacy-um" />-->
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="ancient" revision="eleven-legacy-um" />
   <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="ancient" />
   <project path="device/ancient/sepolicy" name="device_ancient_sepolicy" remote="ancient" />
 
