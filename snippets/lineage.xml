@@ -30,6 +30,9 @@
   <project path="external/vim" name="android_external_vim" remote="lineage" />
   <project path="external/zip" name="android_external_zip" remote="lineage" />
 
+  <!-- hardware -->
+  <project path="hardware/nxp/nfc" name="android_hardware_nxp_nfc" remote="lineage" />
+
   <!-- packages -->
   <project path="packages/apps/Email" name="android_packages_apps_Email" revision="lineage-17.1" remote="lineage" />
   <project path="packages/apps/UnifiedEmail" name="android_packages_apps_UnifiedEmail" revision="lineage-17.1" remote="lineage" />
@@ -41,6 +44,7 @@
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="lineage" />
 
   <!-- system repos -->
+  <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="lineage" />
   <project path="system/update_engine" name="android_system_update_engine" remote="lineage" />
 
 </manifest>
