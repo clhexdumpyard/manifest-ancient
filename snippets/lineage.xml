@@ -40,4 +40,7 @@
   <project path="vendor/qcom/opensource/thermal-engine" name="android_vendor_qcom_opensource_thermal-engine" revision="lineage-17.1" remote="lineage" />
   <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="lineage" />
 
+  <!-- system repos -->
+  <project path="system/update_engine" name="android_system_update_engine" remote="lineage" />
+
 </manifest>
