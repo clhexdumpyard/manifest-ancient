@@ -142,6 +142,7 @@
   <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="ancient" />
 
   <!-- Other repos -->
+  <project path="development" name="development" remote="ancient" />
   <project path="platform_testing" name="platform_testing" remote="ancient" />
 
 </manifest>
