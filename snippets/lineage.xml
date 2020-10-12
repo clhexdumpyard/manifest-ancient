@@ -37,6 +37,7 @@
   <!-- packages -->
   <project path="packages/apps/Email" name="android_packages_apps_Email" revision="lineage-17.1" remote="lineage" />
   <project path="packages/apps/UnifiedEmail" name="android_packages_apps_UnifiedEmail" revision="lineage-17.1" remote="lineage" />
+  <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="lineage" />
   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="lineage" />
 
   <!-- Qualcomm vendor repos -->
