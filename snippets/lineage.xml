@@ -42,7 +42,6 @@
   <!-- Qualcomm vendor repos -->
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="lineage" />
   <project path="vendor/qcom/opensource/thermal-engine" name="android_vendor_qcom_opensource_thermal-engine" revision="lineage-17.1" remote="lineage" />
-  <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="lineage" />
 
   <!-- system repos -->
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="lineage" />
