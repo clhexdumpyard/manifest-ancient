@@ -93,6 +93,7 @@
 
   <!-- hardware -->
   <project path="hardware/ancient/interfaces" name="hardware_ancient_interfaces" remote="ancient" />
+  <project path="hardware/google/pixel" name="hardware_google_pixel" remote="ancient" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="ancient" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="ancient" />
   <project path="hardware/qcom/audio" name="hardware_qcom_audio" remote="ancient" />
