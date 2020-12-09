@@ -6,7 +6,7 @@
           revision="lineage-18.0" />
 
   <!-- CodeAurora additions -->
-  <project path="hardware/qcom-caf/thermal" name="android_hardware_qcom_thermal" revision="lineage-17.1" remote="lineage" />
+  <project path="hardware/qcom-caf/thermal" name="android_hardware_qcom_thermal" remote="lineage" />
   <project path="hardware/qcom-caf/vr" name="android_hardware_qcom_vr" revision="lineage-17.1" remote="lineage" />
 
   <!-- external -->
