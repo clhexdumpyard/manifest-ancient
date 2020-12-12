@@ -109,6 +109,7 @@
 
   <!-- packages -->
   <project path="packages/apps/AncientSettings" name="packages_apps_AncientSettings" remote="ancient" />
+  <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ancient" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="ancient" />
@@ -127,6 +128,7 @@
   <project path="system/core" name="system_core" remote="ancient" />
   <project path="system/incremental_delivery" name="system_incremental_delivery" remote="ancient" />
   <project path="system/libufdt" name="system_libufdt" remote="ancient" />
+  <project path="system/netd" name="system_netd" remote="ancient" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
 
   <!-- Tools -->
