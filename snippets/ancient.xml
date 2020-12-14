@@ -118,6 +118,7 @@
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="ancient" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="ancient" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ancient" />
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="ancient" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="ancient" />
