@@ -3,7 +3,7 @@
 
   <remote name="lineage"
           fetch="https://github.com/LineageOS"
-          revision="lineage-18.0" />
+          revision="lineage-18.1" />
 
   <!-- CodeAurora additions -->
   <project path="hardware/qcom-caf/thermal" name="android_hardware_qcom_thermal" remote="lineage" />
