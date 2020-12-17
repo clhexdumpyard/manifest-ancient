@@ -106,6 +106,7 @@
   <project path="system/libufdt" name="system_libufdt" remote="ancient" />
   <project path="system/netd" name="system_netd" remote="ancient" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
+  <project path="system/vold" name="system_vold" remote="ancient" />
 
   <!-- Tools -->
   <project path="tools/metalava" name="tools_metalava" remote="ancient" />
