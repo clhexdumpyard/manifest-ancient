@@ -43,7 +43,7 @@ Credits:
 
 To get started with the building process, you'll need to get familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
-# To initialize your local repository for CIVILIZATION, use a command like this:-
+# To initialize your local repository for Ancient, use a command like this:-
 
 ```bash
  $ repo init -u https://github.com/Ancient-Lab/manifest -b eleven
