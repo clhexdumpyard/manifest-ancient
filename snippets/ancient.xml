@@ -16,6 +16,9 @@
   <remote name="github"
           fetch="https://github.com/" />
 
+  <remote name="gitlab"
+          fetch="https://gitlab.com/" />
+
   <!-- build -->
   <project path="build/make" name="android_build" remote="ancient" >
     <copyfile src="core/root.mk" dest="Makefile" />
