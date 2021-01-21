@@ -49,6 +49,7 @@
   <project path="external/guice" name="external_guice" remote="ancient" />
   <project path="external/libcxx" name="external_libcxx" remote="ancient" />
   <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="ancient" />
+  <project path="external/pulse" name="external_pulse" remote="ancient" />
   <project path="external/selinux" name="external_selinux" remote="ancient" />
   <project path="external/tinycompress" name="external_tinycompress" remote="ancient" />
   
