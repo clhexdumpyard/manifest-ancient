@@ -117,6 +117,7 @@
 
   <!-- Ancient -->
   <project path="vendor/ancient" name="vendor_ancient" remote="ancient" />
+  <project path="vendor/overlays" name="vendor_overlays" remote="ancient" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="ancient" clone-depth="1" />
   <project path="vendor/prebuilts" name="vendor_prebuilts" remote="ancient" />
 
