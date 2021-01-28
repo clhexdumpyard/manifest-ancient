@@ -103,6 +103,7 @@
 
   <!-- Prebuilts -->
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="ancient" />
+  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master" clone-depth="1" />
   <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" />
 
   <!-- system -->
