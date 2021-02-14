@@ -130,6 +130,7 @@
   <project path="vendor/prebuilts" name="vendor_prebuilts" remote="ancient" />
 
   <!-- Qualcomm vendor repos -->
+  <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="ancient" />
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="ancient" />
   <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="vendor_qcom_opensource_commonsys_bluetooth-ext" remote="ancient" />
   <project path="vendor/qcom/opensource/commonsys/packages/apps/Bluetooth" name="vendor_qcom_opensource_commonsys_packages_apps_Bluetooth" remote="ancient" />
