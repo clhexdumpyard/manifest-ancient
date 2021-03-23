@@ -115,6 +115,7 @@
   <project path="system/bt" name="system_bt" remote="ancient" />
   <project path="system/core" name="system_core" remote="ancient" />
   <project path="system/incremental_delivery" name="system_incremental_delivery" remote="ancient" />
+  <project path="system/iorap" name="system_iorap" remote="ancient" />
   <project path="system/libufdt" name="system_libufdt" remote="ancient" />
   <project path="system/netd" name="system_netd" remote="ancient" />
   <project path="system/security" name="system_security" remote="ancient" />
