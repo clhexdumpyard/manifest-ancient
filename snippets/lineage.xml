@@ -72,7 +72,7 @@
   <project path="external/ant-wireless/hidl" name="android_external_ant-wireless_hidl" remote="lineage" />
   <project path="external/bash" name="android_external_bash" remote="lineage" />
   <project path="external/connectivity" name="android_external_connectivity" remote="lineage" />
-  <project path="external/exfat" name="android_external_exfat" revision="lineage-17.1" remote="lineage" />
+  <project path="external/exfatprogs" name="android_external_exfatprogs" remote="lineage" />
   <project path="external/gptfdisk" name="android_external_gptfdisk" remote="lineage" />
   <project path="external/htop" name="android_external_htop" remote="lineage" />
   <project path="external/json-c" name="android_external_json-c" remote="lineage" />
