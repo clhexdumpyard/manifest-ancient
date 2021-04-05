@@ -151,6 +151,5 @@
 
   <!-- Other repos -->
   <project path="development" name="development" remote="ancient" />
-  <project path="platform_testing" name="platform_testing" remote="ancient" />
 
 </manifest>

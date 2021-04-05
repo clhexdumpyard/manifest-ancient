@@ -136,6 +136,5 @@
 
   <!-- More repos -->
   <remove-project name="platform/development" />
-  <remove-project name="platform/platform_testing" />
 
 </manifest>
