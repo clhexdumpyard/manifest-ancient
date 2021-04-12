@@ -45,6 +45,7 @@
 
   <!-- external -->
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="ancient" />
+  <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="ancient" />
   <project path="external/fastrpc" name="external_fastrpc" remote="ancient" />
   <project path="external/guice" name="external_guice" remote="ancient" />
   <project path="external/libcxx" name="external_libcxx" remote="ancient" />
