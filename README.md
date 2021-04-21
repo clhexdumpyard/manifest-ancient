@@ -60,6 +60,11 @@ To get started with the building process, you'll need to get familiar with [Git 
 ```bash
  $ . build/envsetup.sh
  $ lunch ancient_<devicecodename>-userdebug
+
+For start build
  $ mka bacon -j$(nproc --all)
+
+Your also can use brunch
+ $ brunch <devicecodename> | tee log.txt
 ```
 -----------------------------------------------------------------------------
