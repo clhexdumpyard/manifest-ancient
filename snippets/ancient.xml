@@ -46,6 +46,7 @@
   <!-- external -->
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="ancient" />
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="ancient" />
+  <project path="external/exfat" name="external_exfat" remote="ancient" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="ancient" />
   <project path="external/fastrpc" name="external_fastrpc" remote="ancient" />
   <project path="external/guice" name="external_guice" remote="ancient" />
