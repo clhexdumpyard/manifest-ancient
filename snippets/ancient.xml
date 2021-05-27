@@ -96,6 +96,7 @@
   <project path="packages/apps/AncientSettings" name="packages_apps_AncientSettings" remote="ancient" />
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="ancient" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="ancient" />
+  <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="ancient" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="ancient" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ancient" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="ancient" />
