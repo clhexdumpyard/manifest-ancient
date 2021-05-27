@@ -111,6 +111,7 @@
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="ancient" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="ancient" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="ancient" />
+  <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" remote="ancient" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="ancient" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ancient" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="ancient" />
