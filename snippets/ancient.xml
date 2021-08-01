@@ -150,6 +150,7 @@
   <project path="vendor/overlays" name="vendor_overlays" remote="ancient" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="ancient" />
   <project path="vendor/prebuilts" name="vendor_prebuilts" remote="ancient" />
+  <project path="vendor/weeabostyle" name="vendor_weeabostyle" remote="ancient" />
 
   <!-- Qualcomm vendor repos -->
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="ancient" />
