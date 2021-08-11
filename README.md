@@ -55,6 +55,11 @@ To get started with the building process, you'll need to get familiar with [Git 
  $ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 
+# Follow our ancient_device.mk:-
+```bash
+ $(call inherit-product, vendor/ancient/config/common_full_phone.mk)
+```
+
 # Start the build:-
 
 ```bash
