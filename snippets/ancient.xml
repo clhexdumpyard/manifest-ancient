@@ -117,6 +117,7 @@
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="ancient" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="ancient" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="ancient" />
+  <project path="packages/apps/WeebStyle" name="packages_apps_WeebStyle" remote="ancient" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="ancient" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="ancient" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="ancient" />
