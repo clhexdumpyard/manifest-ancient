@@ -115,6 +115,7 @@
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="ancient" />
   <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="ancient" />
   <project path="packages/apps/Snap" name="packages_apps_Snap" remote="ancient" />
+  <project path="packages/apps/SoftAPManager" name="packages_apps_SoftAPManager" remote="ancient" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="ancient" />
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="ancient" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="ancient" />
