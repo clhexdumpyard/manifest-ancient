@@ -51,6 +51,7 @@
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="ancient" />
   <project path="external/exfat" name="external_exfat" remote="ancient" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="ancient" />
+  <project path="external/faceunlock" name="external_faceunlock" remote="ancient" />
   <project path="external/fastrpc" name="external_fastrpc" remote="ancient" />
   <project path="external/guice" name="external_guice" remote="ancient" />
   <project path="external/libcxx" name="external_libcxx" remote="ancient" />
@@ -103,6 +104,7 @@
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="ancient" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="ancient" />
   <project path="packages/apps/Eleven" name="packages_apps_Eleven" remote="ancient" />
+  <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="ancient" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ancient" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="ancient" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="ancient" />
