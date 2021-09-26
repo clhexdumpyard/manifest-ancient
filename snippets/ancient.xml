@@ -126,6 +126,7 @@
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="ancient" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="ancient" />
   <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" remote="ancient" />
+  <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="ancient" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="ancient" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ancient" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="ancient" />
