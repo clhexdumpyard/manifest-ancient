@@ -145,6 +145,7 @@
   <project path="system/netd" name="system_netd" remote="ancient" />
   <project path="system/security" name="system_security" remote="ancient" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
+  <project path="system/tools/hidl" name="system_tools_hidl" remote="ancient" />
   <project path="system/vold" name="system_vold" remote="ancient" />
 
   <!-- Tools -->
