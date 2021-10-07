@@ -1,4 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Build -->
+  <remove-project name="platform/bionic" />
+  <remove-project name="platform/build" />
+  <remove-project name="platform/build/blueprint" />
+  <remove-project name="platform/build/soong" />
+
+  <!-- google/generic/unused devices -->
+
+  <!-- External -->
+
+  <!-- Frameworks -->
+  <remove-project name="platform/frameworks/av" />
+  <remove-project name="platform/frameworks/base" />
+  <remove-project name="platform/frameworks/native" />
+
+  <!-- Hardware -->
+  <remove-project name="platform/hardware/interfaces" />
+
+  <!-- Packages -->
+  <remove-project name="platform/packages/apps/Settings" />
+
+  <!-- Prebuilts -->
+
+  <!-- Recovery -->
+  <remove-project name="platform/bootable/recovery" />
+
+  <!-- System -->
+  <remove-project name="platform/system/core" />
+
+  <!-- Tools -->
+  <remove-project name="platform/tools/metalava" />
+
+  <!-- Other repos -->
+  <remove-project name="platform/art" />
+
 </manifest>

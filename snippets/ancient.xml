@@ -19,4 +19,57 @@
   <remote name="gitlab"
           fetch="https://gitlab.com/" />
 
+  <!-- Build -->
+  <project path="build/make" name="android_build" remote="ancient" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+    <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
+    <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
+    <linkfile src="core" dest="build/core" />
+    <linkfile src="envsetup.sh" dest="build/envsetup.sh" />
+    <linkfile src="target" dest="build/target" />
+    <linkfile src="tools" dest="build/tools" />
+  </project>
+  <project path="build/blueprint" name="build_blueprint" remote="ancient" />
+  <project path="build/soong" name="build_soong" remote="ancient" >
+    <linkfile src="root.bp" dest="Android.bp" />
+    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  </project>
+
+  <!-- CodeAurora additions -->
+
+  <!-- External -->
+
+  <!-- Device -->
+
+  <!-- Frameworks -->
+  <project path="frameworks/av" name="frameworks_av" remote="ancient" />
+  <project path="frameworks/base" name="frameworks_base" remote="ancient" />
+  <project path="frameworks/native" name="frameworks_native" remote="ancient" />
+
+  <!-- General -->
+  <project path="bionic" name="bionic" remote="ancient" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="ancient" />
+  <project path="manifest" name="manifest" remote="ancient" />
+
+  <!-- Hardware -->
+  <project path="hardware/interfaces" name="hardware_interfaces" remote="ancient" />
+
+  <!-- Packages -->
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient" />
+
+  <!-- Prebuilts -->
+
+  <!-- System -->
+  <project path="system/core" name="system_core" remote="ancient" />
+
+  <!-- Tools -->
+  <project path="tools/metalava" name="tools_metalava" remote="ancient" />
+
+  <!-- Qualcomm vendor repos -->
+
+  <!-- Vendor Stuff -->
+
+  <!-- Other repos -->
+  <project path="art" name="art" remote="ancient" />
+
 </manifest>
