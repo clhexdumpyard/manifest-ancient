@@ -55,6 +55,7 @@
   <remove-project name="platform/hardware/interfaces" />
 
   <!-- Packages -->
+  <remove-project name="platform/packages/apps/Bluetooth" />
   <remove-project name="platform/packages/apps/Settings" />
 
   <!-- Prebuilts -->

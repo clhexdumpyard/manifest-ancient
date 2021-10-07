@@ -55,6 +55,7 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="ancient" />
 
   <!-- Packages -->
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="ancient" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient" />
 
   <!-- Prebuilts -->
