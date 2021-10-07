@@ -36,10 +36,44 @@
   </project>
 
   <!-- CodeAurora additions -->
-
-  <!-- External -->
+  <project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" remote="ancient">
+    <!-- add guard for AOSP hardware/qcom dir -->
+    <linkfile src="os_pickup_aosp.mk" dest="hardware/qcom/Android.mk" />
+    <!-- for AOSP sdm845, we override os_pickup.mk -->
+    <linkfile src="os_pickup.mk" dest="hardware/qcom/sdm845/Android.mk" />
+    <!-- add guards for CAF repositories -->
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/apq8084/Android.mk" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/msm8916/Android.mk" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/msm8952/Android.mk" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/msm8960/Android.mk" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/msm8974/Android.mk" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/msm8994/Android.mk" />
+    <linkfile src="os_pickup.bp" dest="hardware/qcom-caf/msm8996/Android.bp" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/msm8996/Android.mk" />
+    <linkfile src="os_pickup.bp" dest="hardware/qcom-caf/msm8998/Android.bp" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/msm8998/Android.mk" />
+    <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sdm845/Android.bp" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sdm845/Android.mk" />
+    <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8150/Android.bp" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sm8150/Android.mk" />
+    <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8250/Android.bp" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sm8250/Android.mk" />
+    <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8350/Android.bp" />
+    <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sm8350/Android.mk" />
+    <linkfile src="os_pickup.bp" dest="vendor/nxp/opensource/pn5xx/Android.bp" />
+    <linkfile src="os_pickup.mk" dest="vendor/nxp/opensource/pn5xx/Android.mk" />
+    <linkfile src="os_pickup.bp" dest="vendor/nxp/opensource/sn100x/Android.bp" />
+    <linkfile src="os_pickup.mk" dest="vendor/nxp/opensource/sn100x/Android.mk" />
+  </project>
+  <project path="hardware/qcom-caf/sm8150/audio" name="hardware_qcom-caf_sm8150_audio" remote="ancient" />
+  <project path="hardware/qcom-caf/sm8150/display" name="hardware_qcom-caf_sm8150_display" remote="ancient" />
+  <project path="hardware/qcom-caf/sm8150/media" name="hardware_qcom-caf_sm8150_media" remote="ancient" />
 
   <!-- Device -->
+
+  <!-- External -->
+  <project path="external/selinux" name="external_selinux" remote="ancient" />
+  <project path="external/tinycompress" name="external_tinycompress" remote="ancient" />
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="ancient" />
@@ -52,16 +86,21 @@
   <project path="manifest" name="manifest" remote="ancient" />
 
   <!-- Hardware -->
+  <project path="hardware/ancient/interfaces" name="hardware_ancient_interfaces" remote="ancient" />
   <project path="hardware/interfaces" name="hardware_interfaces" remote="ancient" />
+  <project path="hardware/libhardware" name="hardware_libhardware" remote="ancient" />
 
   <!-- Packages -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="ancient" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient" />
 
   <!-- Prebuilts -->
+  <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" />
 
   <!-- System -->
   <project path="system/core" name="system_core" remote="ancient" />
+  <project path="system/netd" name="system_netd" remote="ancient" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
 
   <!-- Tools -->
   <project path="tools/metalava" name="tools_metalava" remote="ancient" />
@@ -69,6 +108,9 @@
   <!-- Qualcomm vendor repos -->
 
   <!-- Vendor Stuff -->
+  <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="ancient" />
+  <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="ancient" />
+  <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" remote="ancient" />
 
   <!-- Other repos -->
   <project path="art" name="art" remote="ancient" />
