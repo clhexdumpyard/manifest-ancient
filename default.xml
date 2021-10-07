@@ -1094,4 +1094,9 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
+  <!-- Ancient -->
+  <include name="snippets/remove.xml" />
+  <include name="snippets/ancient.xml" />
+  <include name="snippets/lineage.xml" />
+
 </manifest>
