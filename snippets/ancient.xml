@@ -36,6 +36,7 @@
   </project>
 
   <!-- CodeAurora additions -->
+  <project path="hardware/qcom-caf/bt" name="hardware_qcom-caf_bt" remote="ancient" />
   <project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" remote="ancient">
     <!-- add guard for AOSP hardware/qcom dir -->
     <linkfile src="os_pickup_aosp.mk" dest="hardware/qcom/Android.mk" />
@@ -68,12 +69,14 @@
   <project path="hardware/qcom-caf/sm8150/audio" name="hardware_qcom-caf_sm8150_audio" remote="ancient" />
   <project path="hardware/qcom-caf/sm8150/display" name="hardware_qcom-caf_sm8150_display" remote="ancient" />
   <project path="hardware/qcom-caf/sm8150/media" name="hardware_qcom-caf_sm8150_media" remote="ancient" />
+  <project path="hardware/qcom-caf/wlan" name="hardware_qcom-caf_wlan" remote="ancient" />
 
   <!-- Device -->
 
   <!-- External -->
   <project path="external/selinux" name="external_selinux" remote="ancient" />
   <project path="external/tinycompress" name="external_tinycompress" remote="ancient" />
+  <project path="external/tinyxml" name="external_tinyxml" remote="ancient" />
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="ancient" />
@@ -98,6 +101,7 @@
   <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" />
 
   <!-- System -->
+  <project path="system/bpf" name="system_bpf" remote="ancient" />
   <project path="system/core" name="system_core" remote="ancient" />
   <project path="system/netd" name="system_netd" remote="ancient" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
@@ -108,7 +112,10 @@
   <!-- Qualcomm vendor repos -->
 
   <!-- Vendor Stuff -->
+  <project path="vendor/ancient" name="vendor_ancient" remote="ancient" />
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="ancient" />
+  <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="ancient" />
+  <project path="vendor/prebuilts" name="vendor_prebuilts" remote="ancient" />
   <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="ancient" />
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" remote="ancient" />
 

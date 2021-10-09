@@ -56,6 +56,11 @@
   <!-- Hardware -->
   <remove-project name="platform/hardware/interfaces" />
   <remove-project name="platform/hardware/libhardware" />
+  <remove-project name="platform/hardware/qcom/camera" />
+  <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" />
+  <remove-project name="platform/hardware/qcom/display" />
+  <remove-project name="platform/hardware/qcom/media" />
+  <remove-project name="platform/hardware/qcom/power" />
 
   <!-- Packages -->
   <remove-project name="platform/packages/apps/Bluetooth" />
@@ -71,6 +76,7 @@
   <remove-project name="platform/bootable/recovery" />
 
   <!-- System -->
+  <remove-project name="platform/system/bpf" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/sepolicy" />
