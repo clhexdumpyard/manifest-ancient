@@ -101,13 +101,10 @@
   <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" />
 
   <!-- System -->
-  <project path="system/bpf" name="system_bpf" remote="ancient" />
   <project path="system/core" name="system_core" remote="ancient" />
-  <project path="system/netd" name="system_netd" remote="ancient" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
 
   <!-- Tools -->
-  <project path="tools/metalava" name="tools_metalava" remote="ancient" />
 
   <!-- Qualcomm vendor repos -->
 
@@ -120,6 +117,5 @@
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" remote="ancient" />
 
   <!-- Other repos -->
-  <project path="art" name="art" remote="ancient" />
 
 </manifest>
