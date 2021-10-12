@@ -64,6 +64,7 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="ancient" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="ancient" />
   <project path="hardware/ril" name="hardware_ril" remote="ancient" />
+  <project path="hardware/xiaomi" name="hardware_xiaomi" remote="ancient" />
 
   <!-- Packages -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="ancient" />
