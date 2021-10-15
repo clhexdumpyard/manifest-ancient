@@ -72,12 +72,15 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="ancient" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="ancient" />
   <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="ancient" />
+  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="ancient" />
+  <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="ancient" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" />
 
   <!-- System -->
   <project path="system/core" name="system_core" remote="ancient" />
+  <project path="system/memory/lmkd" name="system_memory_lmkd" remote="ancient" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
   <project path="system/vold" name="system_vold" remote="ancient" />
 
@@ -95,5 +98,7 @@
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" remote="ancient" />
 
   <!-- Other repos -->
+  <project path="art" name="art" remote="ancient" />
+  <project path="libcore" name="libcore" remote="ancient" />
 
 </manifest>
