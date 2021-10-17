@@ -74,6 +74,9 @@
   <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="ancient" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="ancient" />
   <project path="packages/apps/WallpaperPicker2" name="packages_apps_WallpaperPicker2" remote="ancient" />
+  <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="ancient" />
+  <project path="packages/modules/Permission" name="packages_modules_Permission" remote="ancient" />
+  <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="ancient" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" />
