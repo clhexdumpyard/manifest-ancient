@@ -79,6 +79,11 @@
   <project path="packages/modules/Connectivity" name="packages_modules_Connectivity" remote="ancient" />
   <project path="packages/modules/Permission" name="packages_modules_Permission" remote="ancient" />
   <project path="packages/modules/Wifi" name="packages_modules_Wifi" remote="ancient" />
+  <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="ancient" />
+  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="ancient" />
+  <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" remote="ancient" />
+  <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="ancient" />
+  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ancient" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" />
