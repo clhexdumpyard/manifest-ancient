@@ -43,6 +43,9 @@
   <project path="hardware/qcom-caf/wlan" name="hardware_qcom-caf_wlan" remote="ancient" />
 
   <!-- Device -->
+  <project path="device/ancient/sepolicy" name="device_ancient_sepolicy" remote="ancient" />
+  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="ancient" />
+  <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="ancient" />
 
   <!-- External -->
   <project path="external/colorkt" name="external_colorkt" remote="ancient" />
