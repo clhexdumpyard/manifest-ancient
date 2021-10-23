@@ -101,6 +101,7 @@
 
   <!-- System -->
   <project path="system/core" name="system_core" remote="ancient" />
+  <project path="system/libhwbinder" name="system_libhwbinder" remote="ancient" />
   <project path="system/memory/lmkd" name="system_memory_lmkd" remote="ancient" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
   <project path="system/update_engine" name="system_update_engine" remote="ancient" />
