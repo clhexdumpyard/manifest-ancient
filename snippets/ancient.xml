@@ -49,6 +49,7 @@
 
   <!-- External -->
   <project path="external/colorkt" name="external_colorkt" remote="ancient" />
+  <project path="external/libcxx" name="external_libcxx" remote="ancient" />
   <project path="external/selinux" name="external_selinux" remote="ancient" />
   <project path="external/themelib" name="external_themelib" remote="ancient" />
   <project path="external/tinycompress" name="external_tinycompress" remote="ancient" />
