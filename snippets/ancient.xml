@@ -60,6 +60,7 @@
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="ancient" />
   <project path="frameworks/base" name="frameworks_base" remote="ancient" />
+  <project path="frameworks/libs/systemui" name="frameworks_libs_systemui" remote="ancient" />
   <project path="frameworks/native" name="frameworks_native" remote="ancient" />
 
   <!-- General -->
