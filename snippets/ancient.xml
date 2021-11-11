@@ -131,6 +131,7 @@
   <project path="vendor/gapps" name="vendor_gapps" remote="ancient-gitlab" clone-depth="1" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="ancient" />
   <project path="vendor/prebuilts" name="vendor_prebuilts" remote="ancient" />
+  <project path="vendor/weeabostyle" name="vendor_weeabostyle" remote="ancient" />
 
   <!-- Other repos -->
   <project path="art" name="art" remote="ancient" />
