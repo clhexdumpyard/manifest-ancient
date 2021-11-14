@@ -50,7 +50,10 @@
   <remove-project name="device/ti/beagle-x15-kernel" />
 
   <!-- External -->
+  <remove-project name="platform/external/e2fsprogs" />
+  <remove-project name="platform/external/gptfdisk" />
   <remove-project name="platform/external/libcxx" />
+  <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/selinux" />
   <remove-project name="platform/external/tinycompress" />
 
@@ -115,6 +118,7 @@
   <!-- System -->
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/libhwbinder" />
+  <remove-project name="platform/system/libziparchive" />
   <remove-project name="platform/system/memory/lmkd" />
   <remove-project name="platform/system/security" />
   <remove-project name="platform/system/sepolicy" />
