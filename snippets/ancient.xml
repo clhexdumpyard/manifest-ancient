@@ -82,6 +82,7 @@
   <!-- External -->
   <project path="external/colorkt" name="external_colorkt" remote="ancient" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="ancient" />
+  <project path="external/f2fs-tools" name="external_f2fs-tools" remote="ancient" />
   <project path="external/gptfdisk" name="external_gptfdisk" remote="ancient" />
   <project path="external/libcxx" name="external_libcxx" remote="ancient" />
   <project path="external/mksh" name="external_mksh" remote="ancient" />
