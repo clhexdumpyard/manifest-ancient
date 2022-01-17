@@ -144,6 +144,7 @@
   <project path="prebuilts/tools-ancient" name="prebuilts_tools-ancient" remote="ancient" />
 
   <!-- System -->
+  <project path="system/bt" name="system_bt" remote="ancient" />
   <project path="system/core" name="system_core" remote="ancient" />
   <project path="system/libhwbinder" name="system_libhwbinder" remote="ancient" />
   <project path="system/libziparchive" name="system_libziparchive" remote="ancient" />
@@ -167,7 +168,11 @@
   <!-- Vendor qcom -->
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="ancient"/>
   <project path="vendor/qcom/opensource/audio-hal/st-hal" name="vendor_qcom_opensource_audio-hal_st-hal" remote="ancient" />
+  <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="vendor_qcom_opensource_bluetooth_ext" remote="ancient" />
   <project path="vendor/qcom/opensource/commonsys/display" name="vendor_qcom_opensource_display-commonsys" remote="ancient" />
+  <project path="vendor/qcom/opensource/commonsys/packages/apps/Bluetooth" name="vendor_qcom_opensource_packages_apps_Bluetooth" remote="ancient" />
+  <project path="vendor/qcom/opensource/commonsys/system/bt" name="vendor_qcom_opensource_system_bt" remote="ancient" />
+  <project path="vendor/qcom/opensource/commonsys-intf/bluetooth" name="vendor_qcom_opensource_bluetooth-commonsys-intf" remote="ancient" />
   <project path="vendor/qcom/opensource/commonsys-intf/display" name="vendor_qcom_opensource_display-commonsys-intf" remote="ancient" />
   <project path="vendor/qcom/opensource/fm-commonsys" name="vendor_qcom_opensource_fm-commonsys" remote="ancient" />
   <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="ancient" />
