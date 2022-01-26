@@ -121,6 +121,7 @@
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="ancient" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="ancient" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="ancient" />
+  <project path="packages/apps/GamingMode" name="packages_apps_GamingMode" remote="ancient" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="ancient" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="ancient" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="ancient" />
@@ -138,6 +139,7 @@
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="ancient" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="ancient" />
   <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" remote="ancient" />
+  <project path="packages/resources/PreferenceExtensions" name="packages_resources_PreferenceExtensions" remote="ancient" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="ancient" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="ancient" />
 
