@@ -88,6 +88,7 @@
   <project path="external/robolectric-shadows" name="android_external_robolectric-shadows" remote="lineage" />
   <project path="external/rsync" name="android_external_rsync" remote="lineage" />
   <project path="external/tinyalsa" name="android_external_tinyalsa" remote="lineage" />
+  <project path="external/tremolo" name="android_external_tremolo" remote="lineage" />
   <project path="external/unrar" name="android_external_unrar" remote="lineage" />
   <project path="external/vim" name="android_external_vim" remote="lineage" />
   <project path="external/zip" name="android_external_zip" remote="lineage" />
@@ -140,6 +141,7 @@
   <!-- system repos -->
   <project path="system/media" name="android_system_media" remote="lineage" />
   <project path="system/qcom" name="android_system_qcom" remote="lineage" />
+  <project path="system/tools/aidl" name="android_system_tools_aidl" remote="lineage" />
   <project path="system/tools/dtbtool" name="android_system_tools_dtbtool" remote="lineage" />
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="lineage" />
   <project path="system/update_engine" name="android_system_update_engine" remote="lineage" />
