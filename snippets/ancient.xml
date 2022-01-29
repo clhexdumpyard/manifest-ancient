@@ -82,6 +82,8 @@
   <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="ancient" />
 
   <!-- External -->
+  <project path="external/android-nn-driver" name="external_android-nn-driver" remote="ancient" />
+  <project path="external/armnn" name="external_armnn" remote="ancient" />
   <project path="external/colorkt" name="external_colorkt" remote="ancient" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="ancient" />
   <project path="external/f2fs-tools" name="external_f2fs-tools" remote="ancient" />
