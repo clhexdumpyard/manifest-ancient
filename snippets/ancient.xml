@@ -97,6 +97,7 @@
   <project path="external/themelib" name="external_themelib" remote="ancient" />
   <project path="external/tinycompress" name="external_tinycompress" remote="ancient" />
   <project path="external/tinyxml" name="external_tinyxml" remote="ancient" />
+  <project path="external/zlib-ng" name="external_zlib-ng" remote="ancient" />
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="ancient" />
