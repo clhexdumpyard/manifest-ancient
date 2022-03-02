@@ -48,6 +48,7 @@
 
   <!-- external -->
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="ancient" />
+  <project path="external/arm-optimized-routines" name="external_arm-optimized-routines" remote="ancient" />
   <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="ancient" />
   <project path="external/exfat" name="external_exfat" remote="ancient" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="ancient" />
@@ -141,6 +142,7 @@
   <project path="system/core" name="system_core" remote="ancient" />
   <project path="system/incremental_delivery" name="system_incremental_delivery" remote="ancient" />
   <project path="system/libufdt" name="system_libufdt" remote="ancient" />
+  <project path="system/memory/lmkd" name="system_memory_lmkd" remote="ancient" />
   <project path="system/netd" name="system_netd" remote="ancient" />
   <project path="system/security" name="system_security" remote="ancient" />
   <project path="system/sepolicy" name="system_sepolicy" remote="ancient" />
