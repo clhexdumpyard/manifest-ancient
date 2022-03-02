@@ -55,6 +55,7 @@
   <project path="external/faceunlock" name="external_faceunlock" remote="ancient" />
   <project path="external/fastrpc" name="external_fastrpc" remote="ancient" />
   <project path="external/guice" name="external_guice" remote="ancient" />
+  <project path="external/jemalloc_new" name="external_jemalloc_new" remote="ancient" />
   <project path="external/libcxx" name="external_libcxx" remote="ancient" />
   <project path="external/pulse" name="external_pulse" remote="ancient" />
   <project path="external/selinux" name="external_selinux" remote="ancient" />
