@@ -3,15 +3,15 @@
 
   <remote name="ancient"
           fetch="https://github.com/Ancient-Roms"
-          revision="twelve" />
+          revision="12.1" />
   
   <remote name="ancient-devices"
           fetch="https://github.com/ancient-devices"
-          revision="twelve" />
+          revision="12.1" />
 
   <remote name="ancient-gitlab"
           fetch="https://gitlab.com/ancient-os"
-          revision="twelve" />
+          revision="12.1" />
 
   <remote name="github"
           fetch="https://github.com/" />
