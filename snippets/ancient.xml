@@ -85,7 +85,6 @@
   <project path="external/android-nn-driver" name="external_android-nn-driver" remote="ancient" />
   <project path="external/armnn" name="external_armnn" remote="ancient" />
   <project path="external/arm-optimized-routines" name="external_arm-optimized-routines" remote="ancient" />
-  <project path="external/colorkt" name="external_colorkt" remote="ancient" />
   <project path="external/e2fsprogs" name="external_e2fsprogs" remote="ancient" />
   <project path="external/faceunlock" name="external_faceunlock" remote="ancient" />
   <project path="external/f2fs-tools" name="external_f2fs-tools" remote="ancient" />
@@ -94,7 +93,6 @@
   <project path="external/libcxx" name="external_libcxx" remote="ancient" />
   <project path="external/mksh" name="external_mksh" remote="ancient" />
   <project path="external/selinux" name="external_selinux" remote="ancient" />
-  <project path="external/themelib" name="external_themelib" remote="ancient" />
   <project path="external/tinycompress" name="external_tinycompress" remote="ancient" />
   <project path="external/tinyxml" name="external_tinyxml" remote="ancient" />
 
